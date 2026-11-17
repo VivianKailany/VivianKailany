@@ -18,7 +18,6 @@ Sou formada em **Ciência da Computação pelo IFCE** e mestranda em **Ciência 
 
 Tenho interesse em desenvolvimento de software, arquitetura de aplicações, integração de sistemas e computação de alto desempenho. Minha experiência envolve principalmente desenvolvimento backend, APIs REST, bancos de dados e ferramentas de desenvolvimento.
 
-Atualmente, também estou explorando o ecossistema Apple e aprofundando meus conhecimentos em Swift.
 
 ---
 
@@ -38,11 +37,6 @@ Atualmente, também estou explorando o ecossistema Apple e aprofundando meus con
 - Persistência de dados e bancos relacionais
 - Python, JavaScript e TypeScript
 
-### Ecossistema Apple
-
-- Swift — em aprendizado
-- Explorando ferramentas e frameworks do ecossistema Apple
-- Interesse em desenvolvimento de aplicações para plataformas Apple
 
 ### DevOps e ferramentas
 
@@ -68,13 +62,6 @@ Atualmente, também estou explorando o ecossistema Apple e aprofundando meus con
 <img width="70%" src="https://streak-stats.demolab.com?user=VivianKailany&theme=tokyonight&hide_border=true" alt="Sequência de contribuições" />
 </div>
 
----
-
-## 🚀 Projetos em destaque
-
-<div align="center">
-<img src="https://github-stats-extended.vercel.app/api/pin/?username=VivianKailany&repo=Viora&theme=tokyonight&hide_border=true" alt="Projeto Viora" />
-</div>
 
 ---
 
